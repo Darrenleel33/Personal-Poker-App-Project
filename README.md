@@ -15,3 +15,8 @@ However, I am attempting to make a personal challenge create a usable poker webs
 Ideas are still raw. My knowledge is still limited.
 Thus,
 Personal project.
+
+
+>>> working on HTML, lets set up a good layout of the webpage.
+
+LAST THOUGHTS: seems like I have to create my own database. not a lot of database linking to java
